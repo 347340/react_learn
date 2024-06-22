@@ -1,4 +1,4 @@
-# 创建react项目
+## 创建react项目
 
 ```
 $ create-react-app react_learn
@@ -9,7 +9,7 @@ $ create-react-app react_learn
 ```
 $ cd react_learn
 ```
-### 启动react项目
+## 启动react项目
 
 ```
 $ npm start
